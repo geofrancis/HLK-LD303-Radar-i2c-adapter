@@ -1,4 +1,4 @@
-# HLK-LD303-Radar-i2c-adapter TESTED
+# HLK-LD303-Radar-i2c-adapter WORKING
 HLK-LD303 Radar i2c adapter
 
 
