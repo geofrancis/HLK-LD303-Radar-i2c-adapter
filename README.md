@@ -1,3 +1,5 @@
 # HLK-LD303-Radar-i2c-adapter
 HLK-LD303 Radar i2c adapter
-untested
+
+
+converts LD303 serial radar to maxbotix i2c using an esp32 as an adapter.
