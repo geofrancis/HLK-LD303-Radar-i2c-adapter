@@ -27,8 +27,6 @@ uint32_t i = 0;
 const int numReadings = 10;
 
 
-int pinRX = 10;
-int pinTX = 11;
 unsigned char data_buffer[4] = {0};
 int distances = 0;
 int distance = 0;
