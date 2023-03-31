@@ -41,7 +41,7 @@ int total = 0;
 int average = 0; 
 
 
-void readsonar(){     
+void readradar(){     
     buffer[byte_count] = Serial1.read();
         byte_count = (byte_count + 1) % BUFFER_SIZE;
 
@@ -155,5 +155,5 @@ void setup() {
 
 }
 void loop() {
-  readsonar();
+  readradar();
 }
