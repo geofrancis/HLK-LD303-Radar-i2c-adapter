@@ -8,4 +8,5 @@ set srdupilot to rangefinder type 2 for MaxbotixI2C
 set i2c address to 112
 
 5v,Ground,pin 16 / 17 for RX TX to RADAR
-GPIO 22 (SCL) and GPIO 21 (SDA)
+
+GPIO 22 (SCL) and GPIO 21 (SDA) to flight controller.
